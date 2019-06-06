@@ -1,0 +1,21 @@
+系统信息收集工具
+
+
+Author and Maintainers
+Supporting company
+
+This project is maintained by Facebook
+Installation
+Supported operating systems
+
+Osquery is known to work on Linux, macOS, and Microsoft Windows.
+How it works
+
+The osquery tool collects data from the system and makes them 
+available as a database. By giving it database like queries you can 
+extract data from the system and use that together with other tools.
+Usage and audience
+
+osquery is commonly used for compliance testing, information 
+gathering, or security monitoring. Target users for this tool are auditors,
+pentesters, security professionals, and system administrators.
